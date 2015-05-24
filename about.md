@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Lee Cartwright
 permalink: /about/
 ---
 
-Some information about you!
+I'm a software engineer at [Altera](www.altera.com) focused on development infrastructure. 
 
-### More Information
+I read too much, don't play my bass enough, practice at being a mountain goat and think up weird ways to use a Raspberry Pi to solve pet related problems.
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a British ex-pat exiled to California. My British humour (Americans, note the u!) is set to 11. You have been warned.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marmiteoverlord@gmail.com](mailto:marmiteoverlord@gmail.com)
