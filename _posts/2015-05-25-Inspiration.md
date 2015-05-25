@@ -5,7 +5,7 @@ title: Inspiration
 
 This is Biscuit.
 
-![Biscuit](/images/Biscuit.jpg "Biscuit")
+![Biscuit](/images/Biscuit.JPG "Biscuit")
 
 You're probably looking at that picture and thinking how cute he looks. How he seems like such a good, well-behaved cat. Yes...and no.
 
