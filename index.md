@@ -62,6 +62,30 @@ scalable, service-oriented systems.
 ### Member of Technical Staff@Altera 10/2013 - 12/2015
 * Designed and built a synchronisation tool that provided scalable, reliable synchronisation of internal software builds across all global engineering locations with minimal impact on WAN performance. Average daily build output was ~1.5TB and synchronised to 5 locations around the globe.
 
+### Software Engineer@3M (via acquisition of Federal Signal Technologies) 04/2012 - 09/2013
+* Designed and developed tools to aid field support engineers configure and maintain road-side systems
+  in automated road tolling sites.
+
+### Senior Software Engineer@Altera 09/2008 - 04/2012
+* Designed and developed an automated build synchronization system to ensure internal builds were
+distributed to all global engineering locations while minimizing WAN impact.
+* Developed automated reporting and maintenance systems for Altera's in-house compute farm system.
+
+### Project Manager@McAfee 09/2007 - 09/2008
+* Managed project teams and stakeholders to ensure projects were delivered to schedule and budget.
+
+### Software Engineer@Imperas 07/2005 - 09/2007
+* Designed and developed a distributed regression test system. This system improved regression test
+  turnaround time from days to hours.
+
+### Software Engineer@3Com 01/2001 - 04/2005
+* Designed and developed a standardized build system for use with all Linux based 3Com platforms. This
+  provided a common build flow that produced firmware images for all hardware platforms and
+  architectures.
+
+### Software Engineer@Bull Information Systems 09/1997 - 01/2001
+* Designed and built bespoke Windows based software to meet customer requirements.
+
 
 
 
